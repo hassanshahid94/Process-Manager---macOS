@@ -1,5 +1,5 @@
 # Process Manager
-Process Manager is a macOS Application designed for displaying the currently running processes. Users can terminate and forcefully kill the running process.
+Process Manager is a macOS Application designed for displaying the currently running processes. Users can kill the running process.
 
 ### Features:
 This app has following major features:
